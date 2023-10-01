@@ -1,4 +1,6 @@
-# i4metal-ideathon
+# i4metal-open-data
+
+Δεδομένα που διατίθενται ανοικτά (open) στα πλαίσια του έργου.
 
 ## Data Description
 
